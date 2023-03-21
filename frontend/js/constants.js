@@ -1,7 +1,7 @@
 const contractAddress = "0xD4F35Ced6Ff95CaC5AaE630b4d8937D3ad3e9c3A"; // Replace with your own contract address
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the DAYC NFT Project!!";
+const welcome_h1 = "Welcome to the Degen Ape Yacht Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The DAYC NFT Project is a decentralized, 5555 Pixel apes on Ethereum';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
